@@ -1,6 +1,5 @@
 🎓 STUDENT RESULT MANAGEMENT :
-
-             Student Result Management is a project designed to manage students’ academic records and results in an easy and efficient way. It helps teachers to enter, update, and calculate students’ marks automatically. The system reduces manual work, saves time, and provides accurate and organized results for students and teachers.
+      Student Result Management is a project designed to manage students’ academic records and results in an easy and efficient way. It helps teachers to enter, update, and calculate students’ marks automatically. The system reduces manual work, saves time, and provides accurate and organized results for students and teachers.
 
 🚀 FEATURES
 
